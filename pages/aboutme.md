@@ -8,13 +8,13 @@ title: About Me
 <!-- PHOTO GOES HERE -->
 <div class="inlineHeader">
     <div class="cell">
-        <img src="{{ site.baseurl }}/assets/images/me1.png" alt="Me shirtless in a puppy hood, smiling." style="height: 300px;">
+        <img src="{{ site.baseurl }}/assets/images/me1.png" alt="ID: Me shirtless in a puppy hood, smiling." style="height: 300px;">
     </div>
     <div class="cell">
-        <img src="{{ site.baseurl }}/assets/images/me2.png" alt="Me naked in a puppy hood, looking seductively up at you." style="height: 300px;">
+        <img src="{{ site.baseurl }}/assets/images/me2.png" alt="ID: Me naked in a puppy hood, looking up at you." style="height: 300px;">
     </div>
     <div class="cell">
-        <img src="{{ site.baseurl }}/assets/images/me3.png" alt="Me shirtless in a puppy hood, leaning over you." style="height: 300px;">
+        <img src="{{ site.baseurl }}/assets/images/me3.png" alt="ID: Me shirtless in a puppy hood, leaning over you." style="height: 300px;">
     </div>
 </div>
 
