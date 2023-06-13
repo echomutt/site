@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Menu
+  link: /pages/menu.html
+- name: Kinks, Limits, & TOS
+  link: /pages/kinkslimits.html
+- name: About Me
+  link: /pages/aboutme.html
+- name: Contact Me
+  link: /pages/contactme.html

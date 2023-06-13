@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <script src="/assets/js/mobileDetection.js"></script>
+
+    <link
+      href="/assets/css/styles.css"
+      id="pagestyle"
+      rel="stylesheet">
+
+  </head>
+  <body>
+    <div class="backgroundAddition"></div>
+    <div class="backgroundAddition2"></div>
+    <div class="box">
+      {% include navigation.html %}
+      {{ content }}
+    </div>
+  </body>
+</html>

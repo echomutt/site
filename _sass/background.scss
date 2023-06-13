@@ -1,0 +1,62 @@
+
+// background and scrolling main box
+
+body {
+    // just gradient - stretch w window
+    background-image: url(/assets/images/backgroundGradient2.png); //backgroundGradient2
+    background-size: cover;
+    background-attachment: fixed;
+
+    padding-bottom: 30px; // add scrolling space after box
+}
+
+.backgroundAddition {
+    // repeating hashes on a margined box
+    background-image: url(/assets/images/backgroundHash2.png);
+    background-size: contain;
+    position: fixed;
+
+    height: 90vh;
+    width: 95vw;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-attachment: fixed;
+    z-index: 0;
+}
+
+.backgroundAddition2 {
+    // repeating hashes on a margined box
+    background-image: url(/assets/images/backgroundHash.png);
+    background-size: contain;
+    position: fixed;
+
+    height: 90vh;
+    width: 95vw;
+    top: 49.25%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    background-attachment: fixed;
+    z-index: 0;
+}
+
+.box {
+    width: 80%; 
+    max-width: 760px;
+
+    position: relative;
+    padding: 25px;
+    padding-top: 60px;
+    padding-bottom: 45px;
+    top: 10px;
+    // bottom cushion is from body's bottom-padding
+    
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url(/assets/images/boxDecor.png);
+    background-size: 810px;
+    background-repeat: no-repeat;
+    background-color: #BDE0FE;
+    z-index: 1;
+}
