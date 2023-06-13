@@ -3,7 +3,7 @@
 
 body {
     // just gradient - stretch w window
-    background-image: url({{ site.baseurl }}/assets/images/backgroundGradient2.png); //backgroundGradient2
+    //background-image: url({{ site.baseurl }}/assets/images/backgroundGradient2.png); //backgroundGradient2
     background-size: cover;
     background-attachment: fixed;
 
@@ -12,7 +12,7 @@ body {
 
 .backgroundAddition {
     // repeating hashes on a margined box
-    background-image: url({{ site.baseurl }}/assets/images/backgroundHash2.png);
+    // background-image: url({{ site.baseurl }}/assets/images/backgroundHash2.png);
     background-size: contain;
     position: fixed;
 
@@ -27,7 +27,7 @@ body {
 
 .backgroundAddition2 {
     // repeating hashes on a margined box
-    background-image: url({{ site.baseurl }}/assets/images/backgroundHash.png);
+    // background-image: url({{ site.baseurl }}/assets/images/backgroundHash.png);
     background-size: contain;
     position: fixed;
 
@@ -54,7 +54,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 
-    background-image: url({{ site.baseurl }}/assets/images/boxDecor.png);
+    // background-image: url({{ site.baseurl }}/assets/images/boxDecor.png);
     background-size: 810px;
     background-repeat: no-repeat;
     background-color: #BDE0FE;
