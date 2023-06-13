@@ -68,5 +68,5 @@ Thank you for taking the time to read! I look forward to chatting :3
 <br>
 
 <div class="centerContainer">
-    <button class="buy button" onclick="location.href='contactme.html'">Contact Me to Buy!</button>
+    <button class="buy button" onclick="location.href='{{ site.baseurl }}/pages/contactme.html'">Contact Me to Buy!</button>
 </div>
