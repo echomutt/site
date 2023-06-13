@@ -23,7 +23,7 @@ breeding (no preg), hucow and lactation (fantasy), fisting/gaping/large insertab
 
 
 
-#### For more info on my dom style, go to my [About Me](/pages/aboutme.html)!
+#### For more info on my dom style, go to my [About Me]({{ site.baseurl }}/pages/aboutme.html)!
 
 
 
