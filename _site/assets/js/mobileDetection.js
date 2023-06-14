@@ -1,4 +1,3 @@
-
 // 428px was the widest phone size on chrome's mobile webdev options
 // var mobileCutoffWidth = 428
 

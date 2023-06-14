@@ -1,3 +1,5 @@
+---
+---
 
 // 428px was the widest phone size on chrome's mobile webdev options
 // var mobileCutoffWidth = 428
@@ -12,7 +14,7 @@ function initate() {
 
     if(userAgent.includes("Mobi") || userAgent.toLowerCase().includes("mobile")) {
         console.log("mobile device detected. changing style sheet.");
-        setStyleSheet("/assets/css/stylesMobile.css");
+        setStyleSheet("{{ site.baseurl }}/assets/css/stylesMobile.css");
     }
     else {
         console.log("mobile device not detected.");
